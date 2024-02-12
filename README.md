@@ -1,2 +1,2 @@
-# SelfiApp
-take selfies and save it to the data base
+# SelfiApp (In Progress)
+take selfies and save them to a database
